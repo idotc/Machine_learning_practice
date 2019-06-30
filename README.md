@@ -14,4 +14,4 @@ Machine_learning_practice
 > 
 ### 6、聚类算法
 > 
-7、KNN算法
+### 7、KNN算法
