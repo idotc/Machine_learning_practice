@@ -15,3 +15,15 @@ Machine_learning_practice
 ### 6、聚类算法(已完成)
 > 
 ### 7、KNN算法（已完成）
+> 
+8、SVM算法实践
+>
+9、决策树实践
+>
+10、随机森林实践
+>
+11、adaboost实践
+>
+12、GDBT实践
+>
+13、XGBoost实践
